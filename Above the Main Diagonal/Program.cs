@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Numerics;
 
-namespace Above_the_Main_Diagonal
+namespace Above_The_Main_Diagonal
 {
     internal class Program
     {
@@ -11,24 +11,23 @@ namespace Above_the_Main_Diagonal
 
             BigInteger[,] matrix = new BigInteger[N, N];
 
-            BigInteger rowValue = 1;
-            BigInteger colValue = 1;
+            BigInteger row = 1;
+            BigInteger col = 1;
 
             for (int i = 0; i < N; i++)
             {
+                matrix[i, 0] = row;
+                row *= 2;
 
-                matrix[i, 0] = rowValue;
-                rowValue *= 2;
-
-                for (int c = 1; c < N; c++)
+                for (int j = 1; j < N; j++)
                 {
-                    colValue *= 2;
-                    matrix[i, c] = colValue;
+                    col *= 2;
+                    matrix[i, j] = col;
                 }
-                colValue = rowValue;
+                col = row;
             }
 
-            BigInteger counterAbove = 0;
+            BigInteger sumAbove = 0;
 
             for (int i = 0; i < matrix.GetLength(0); i++)
             {
@@ -36,10 +35,10 @@ namespace Above_the_Main_Diagonal
                 {
                     if (i == j)
                     {
-
+                        //sumAbove += matrix[i, j];
                         for (int c = j + 1; c < matrix.GetLength(1); c++)
                         {
-                            counterAbove += matrix[i, c];
+                            sumAbove += matrix[i, c];
                         }
                     }
                 }
@@ -54,7 +53,7 @@ namespace Above_the_Main_Diagonal
             //    Console.WriteLine();
             //}
 
-            Console.WriteLine(counterAbove);
+            Console.WriteLine(sumAbove);
         }
     }
 }

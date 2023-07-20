@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>Above_the_Main_Diagonal</RootNamespace>
+    <RootNamespace>Above_The_Main_Diagonal</RootNamespace>
   </PropertyGroup>
 
 </Project>
