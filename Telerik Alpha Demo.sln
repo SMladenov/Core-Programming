@@ -5,61 +5,63 @@ VisualStudioVersion = 17.1.32414.318
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "String", "String", "{2711832F-732C-4230-AAAB-1FB02EA6142B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Substring and Replace", "Chalenge 1\Substring and Replace.csproj", "{5B4F8880-92BC-45B9-BE92-287B76B75E95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Substring and Replace", "Chalenge 1\Substring and Replace.csproj", "{5B4F8880-92BC-45B9-BE92-287B76B75E95}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Print only one occurance of each alphabetic letter", "Print only one occurance of each alphabetic letter\Print only one occurance of each alphabetic letter.csproj", "{227F596B-EA73-49AF-BB2D-B1255BD34508}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Print only one occurance of each alphabetic letter", "Print only one occurance of each alphabetic letter\Print only one occurance of each alphabetic letter.csproj", "{227F596B-EA73-49AF-BB2D-B1255BD34508}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse String", "Reverse String\Reverse String.csproj", "{4C8E046E-0A33-4513-A2D0-74E28BFF4786}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reverse String", "Reverse String\Reverse String.csproj", "{4C8E046E-0A33-4513-A2D0-74E28BFF4786}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Methods", "Methods", "{2AD5ABE6-DF73-4433-A839-A68CB92ECE51}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lecture", "Lecture Telerik\Lecture.csproj", "{46AA6FFA-FA3D-4AEB-A410-F6FA684A54E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lecture", "Lecture Telerik\Lecture.csproj", "{46AA6FFA-FA3D-4AEB-A410-F6FA684A54E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods Exercise", "Methods Exercise\Methods Exercise.csproj", "{F59F7338-7012-46E4-811D-072A751BFB02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods Exercise", "Methods Exercise\Methods Exercise.csproj", "{F59F7338-7012-46E4-811D-072A751BFB02}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Defining Classes and Objects", "Defining Classes and Objects", "{2FBD1833-5063-4B9C-95A4-41B8B348E3AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lecture", "Lecture\Lecture.csproj", "{DDDA0549-F506-4EED-A807-DF738EEF4B7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lecture", "Lecture\Lecture.csproj", "{DDDA0549-F506-4EED-A807-DF738EEF4B7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class Construction", "Class Construction\Class Construction.csproj", "{F0AD9E31-06F1-4149-B3FA-C7E55C6E28D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class Construction", "Class Construction\Class Construction.csproj", "{F0AD9E31-06F1-4149-B3FA-C7E55C6E28D1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Coding Tasks", "Coding Tasks", "{2731193C-A3CF-40CC-BB7C-3F1B96A4129B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game", "Game\Game.csproj", "{7CEC4B6F-A797-4125-AAB7-AE27D1ABD8B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Game", "Game\Game.csproj", "{7CEC4B6F-A797-4125-AAB7-AE27D1ABD8B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Electronic message", "Electronic message\Electronic message.csproj", "{F803422A-F7DE-4D40-92F2-AC05EB000137}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Electronic message", "Electronic message\Electronic message.csproj", "{F803422A-F7DE-4D40-92F2-AC05EB000137}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pin Code", "Pin Code\Pin Code.csproj", "{527A785A-44CB-4E13-AE43-9E2E6569051B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pin Code", "Pin Code\Pin Code.csproj", "{527A785A-44CB-4E13-AE43-9E2E6569051B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrangement", "Arrangement\Arrangement.csproj", "{298CAD6E-D8BF-416A-8539-B34CB0BCCA03}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrangement", "Arrangement\Arrangement.csproj", "{298CAD6E-D8BF-416A-8539-B34CB0BCCA03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Check for Play Card", "Check for Play Card\Check for Play Card.csproj", "{CF40F5BC-63EE-4B32-A7A9-726AB43F91C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Check for Play Card", "Check for Play Card\Check for Play Card.csproj", "{CF40F5BC-63EE-4B32-A7A9-726AB43F91C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biggest Prime Number", "Biggest Prime Number\Biggest Prime Number.csproj", "{A99B13BB-1467-4D0A-9D50-C6DED318489D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Biggest Prime Number", "Biggest Prime Number\Biggest Prime Number.csproj", "{A99B13BB-1467-4D0A-9D50-C6DED318489D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Signal from Space", "Signal from Space\Signal from Space.csproj", "{A5480704-9AF2-489B-8DBE-E4599F9C0088}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Signal from Space", "Signal from Space\Signal from Space.csproj", "{A5480704-9AF2-489B-8DBE-E4599F9C0088}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Good numbers", "Good numbers\Good numbers.csproj", "{D67F68ED-7E7C-4E06-AA71-B389894A9AC0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Good numbers", "Good numbers\Good numbers.csproj", "{D67F68ED-7E7C-4E06-AA71-B389894A9AC0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array Search", "Array Search\Array Search.csproj", "{EB94B092-D2D8-4B0D-A269-A357D2247BDD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array Search", "Array Search\Array Search.csproj", "{EB94B092-D2D8-4B0D-A269-A357D2247BDD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Combine Lists", "Combine Lists\Combine Lists.csproj", "{3129828B-E34F-4608-B3F1-A3747695771D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Combine Lists", "Combine Lists\Combine Lists.csproj", "{3129828B-E34F-4608-B3F1-A3747695771D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Most Frequent", "Most Frequent\Most Frequent.csproj", "{43AE8713-ABF8-49B8-A1C4-E0DB6A06C987}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Most Frequent", "Most Frequent\Most Frequent.csproj", "{43AE8713-ABF8-49B8-A1C4-E0DB6A06C987}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Above the Main Diagonal", "Above the Main Diagonal\Above the Main Diagonal.csproj", "{427B9632-4663-416B-A8E8-EDE51A75B3D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Above the Main Diagonal", "Above the Main Diagonal\Above the Main Diagonal.csproj", "{427B9632-4663-416B-A8E8-EDE51A75B3D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forest Road", "Forest Road\Forest Road.csproj", "{DE71DC3E-0D49-4793-9D62-04DE5DD3EA5F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Forest Road", "Forest Road\Forest Road.csproj", "{DE71DC3E-0D49-4793-9D62-04DE5DD3EA5F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Least Majority Multiple", "Least Majority Multiple\Least Majority Multiple.csproj", "{AD1C92DD-87D7-4422-B5F7-757D5F2F30DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Least Majority Multiple", "Least Majority Multiple\Least Majority Multiple.csproj", "{AD1C92DD-87D7-4422-B5F7-757D5F2F30DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snail", "Snail\Snail.csproj", "{CD69A8AB-1AC7-42F2-BC61-84AA1A06D2F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Snail", "Snail\Snail.csproj", "{CD69A8AB-1AC7-42F2-BC61-84AA1A06D2F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TupleExample", "TupleExample\TupleExample.csproj", "{BBFC8762-C43A-4C8C-96CE-87838A2D3A9A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TupleExample", "TupleExample\TupleExample.csproj", "{BBFC8762-C43A-4C8C-96CE-87838A2D3A9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Second Lecture", "Second Lecture\Second Lecture.csproj", "{BF96916B-F52C-4FB6-98CD-B8AA73ECE69D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Second Lecture", "Second Lecture\Second Lecture.csproj", "{BF96916B-F52C-4FB6-98CD-B8AA73ECE69D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class Exercise", "Class Exercise\Class Exercise.csproj", "{A072A47D-7CAD-4342-B39D-E5DE556F2526}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class Exercise", "Class Exercise\Class Exercise.csproj", "{A072A47D-7CAD-4342-B39D-E5DE556F2526}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Longest Increasing Sequence", "Longest Increasing Sequence\Longest Increasing Sequence.csproj", "{708E0AA2-6BAD-4D4B-A42B-EEEA283A27D7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -167,6 +169,10 @@ Global
 		{A072A47D-7CAD-4342-B39D-E5DE556F2526}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A072A47D-7CAD-4342-B39D-E5DE556F2526}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A072A47D-7CAD-4342-B39D-E5DE556F2526}.Release|Any CPU.Build.0 = Release|Any CPU
+		{708E0AA2-6BAD-4D4B-A42B-EEEA283A27D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{708E0AA2-6BAD-4D4B-A42B-EEEA283A27D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{708E0AA2-6BAD-4D4B-A42B-EEEA283A27D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{708E0AA2-6BAD-4D4B-A42B-EEEA283A27D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -197,6 +203,7 @@ Global
 		{BBFC8762-C43A-4C8C-96CE-87838A2D3A9A} = {2731193C-A3CF-40CC-BB7C-3F1B96A4129B}
 		{BF96916B-F52C-4FB6-98CD-B8AA73ECE69D} = {2AD5ABE6-DF73-4433-A839-A68CB92ECE51}
 		{A072A47D-7CAD-4342-B39D-E5DE556F2526} = {2731193C-A3CF-40CC-BB7C-3F1B96A4129B}
+		{708E0AA2-6BAD-4D4B-A42B-EEEA283A27D7} = {2731193C-A3CF-40CC-BB7C-3F1B96A4129B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5C6E5F2E-9664-4B35-973E-A11586863735}
